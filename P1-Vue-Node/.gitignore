@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Cache and temporary files
+.vite/
+
 # Build output
 dist/
 
