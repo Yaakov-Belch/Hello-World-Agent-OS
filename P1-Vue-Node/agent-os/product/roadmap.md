@@ -2,7 +2,7 @@
 
 1. [x] Static Welcome Display — Create a basic Vue component that displays "Hello World!" message with simple styling, teaching Vue template syntax, component structure, and data binding fundamentals. `XS`
 
-2. [ ] Interactive Counter — Build increment/decrement button controls that modify a reactive counter state, demonstrating Vue's reactivity system, event handling, and state management basics. `XS`
+2. [x] Interactive Counter — Build increment/decrement button controls that modify a reactive counter state, demonstrating Vue's reactivity system, event handling, and state management basics. `XS`
 
 3. [ ] Todo Input Form — Add a text input field with submit functionality to create new todo items, introducing form handling, v-model directive, and basic validation patterns in Vue. `S`
 
