@@ -4,17 +4,17 @@
 
 2. [x] Interactive Counter — Build increment/decrement button controls that modify a reactive counter state, demonstrating Vue's reactivity system, event handling, and state management basics. `XS`
 
-3. [ ] Todo Input Form — Add a text input field with submit functionality to create new todo items, introducing form handling, v-model directive, and basic validation patterns in Vue. `S`
+3. [x] Todo Input Form — Add a text input field with submit functionality to create new todo items, introducing form handling, v-model directive, and basic validation patterns in Vue. `S`
 
-4. [ ] Todo List Display — Render the list of todos with toggle complete and delete actions using v-for directive, teaching list rendering, conditional styling, and array manipulation. `S`
+4. [x] Todo List Display — Render the list of todos with toggle complete and delete actions using v-for directive, teaching list rendering, conditional styling, and array manipulation. `S`
 
-5. [ ] Express API Server — Create a Node.js/Express backend with REST endpoints (GET, POST, PUT, DELETE) for todos, teaching HTTP methods, routing, middleware, and API design principles. `M`
+5. [x] Express API Server — Create a Node.js/Express backend with REST endpoints (GET, POST, PUT, DELETE) for todos, teaching HTTP methods, routing, middleware, and API design principles. `M`
 
-6. [ ] Frontend API Integration — Refactor frontend to fetch todos from the Express API instead of localStorage, demonstrating async/await patterns, fetch API usage, and client-server communication. `S`
+6. [x] Frontend API Integration — Refactor frontend to fetch todos from the Express API instead of localStorage, demonstrating async/await patterns, fetch API usage, and client-server communication. `S`
 
-7. [ ] SQLite Database Setup — Configure SQLite database with todos table schema and implement database connection layer, introducing SQL fundamentals, data modeling, and database initialization. `M`
+7. [x] SQLite Database Setup — Configure SQLite database with todos table schema and implement database connection layer, introducing SQL fundamentals, data modeling, and database initialization. `M`
 
-8. [ ] Database-Backed API — Update Express endpoints to read/write from SQLite instead of in-memory storage, teaching SQL queries, database transactions, and persistent server-side state. `M`
+8. [x] Database-Backed API — Update Express endpoints to read/write from SQLite instead of in-memory storage, teaching SQL queries, database transactions, and persistent server-side state. `M`
 
 9. [ ] End-to-End Testing Suite — Add Vitest tests covering each feature from static display through database operations, demonstrating unit testing, integration testing, and test organization patterns. `L`
 

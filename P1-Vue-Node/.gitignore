@@ -16,3 +16,8 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Database files
+server/database/*.db
+server/database/*.db-shm
+server/database/*.db-wal
